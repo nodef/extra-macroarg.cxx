@@ -155,3 +155,4 @@ printf("EMA_SPACEPAIR(h, b, c, d): %s, %s.\n", EMA_SPACEPAIR("h", "b", "c", "d")
 
 
 [![cppf](https://i.imgur.com/NVwgyFV.jpg)](https://cppf.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/extra-macroarg.cxx)
